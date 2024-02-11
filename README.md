@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya-kothekar&show_icons=true&locale=en&layout=compact" alt="chaitanya-kothekar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya-kothekar&show_icons=true&locale=en" alt="chaitanya-kothekar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-kothekar&" alt="chaitanya-kothekar" /></p>
